@@ -19,7 +19,7 @@
 
   <p align="center">
 
-<img src="https://i.imgur.com/Gw7jtD0.jpg" alt="GIF" width="600" height="900"/>
+<img src="https://i.imgur.com/Gw7jtD0.jpg" alt="GIF" width="300" height="350"/>
 
 </p>
 
@@ -35,7 +35,7 @@
 
 </p>
 
-  <p align="center"><a href="https://github.com/Hubdarkweb/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/Gw7jtD0.jpg" alt="Fork and deploy" height="112" width="300" /></a>
+  <p align="center"><a href="https://github.com/Hubdarkweb/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/Gw7jtD0.jpg" alt="Fork and deploy" height="500" width="300" /></a>
 
 <br>
 
