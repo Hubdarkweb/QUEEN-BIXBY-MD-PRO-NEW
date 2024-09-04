@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              🗽🥷🐼 TOpPLUG 🗽🪳🖥️🥷🐼☣️ Cyberpunk🥷🐼☣️🪲📱⌨️🐞
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 🐼 CYBERPANDA☣️🥷🪳🐞🐼 
 //
 //════════════════════════════//
 
@@ -61,7 +61,7 @@ async function startGojoMdNx() {
     const GojoMdNx = NexusNwIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Gojo Satoru\Nexus','Safari','1.0.0'],
+        browser: ['🥷🐼TOPPLUG🪲🗽\Nexus','Safari','1.0.0'],
         auth: state
     })
 
